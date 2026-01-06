@@ -1,72 +1,81 @@
-<h1 align="center">Hi 👋, I'm MD RAIHAN</h1>
-<h3 align="center">Data Analyst | Turning Large-Scale Data into Actionable Business Insights</h3>
+<h1 align="center">MD RAIHAN</h1>
+<h3 align="center">Data Analyst | Large-Scale Data • Business Insights • Analytics Engineering</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-raihan-9809592aa/">LinkedIn</a> •
-  <a href="https://github.com/raihanzzz">GitHub</a>
+  <a href="https://www.linkedin.com/in/md-raihan-9809592aa/">LinkedIn</a> ·
+  <a href="mailto:raihan964696@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Who I Am
 
-I am a **Data Analyst** with hands-on experience executing **end-to-end data analysis** using Python, SQL, R, Power BI, and Excel.  
-I have worked on **industry-scale datasets (multi-million rows)** involving relational tables, complex joins, funnel analysis, and business-focused storytelling.
+I’m a **Data Analyst** focused on turning **complex, large-scale datasets** into **clear, actionable insights**.  
+I work across the full analytics lifecycle — from raw data extraction and transformation to funnel analysis, diagnostics, and stakeholder-ready visualizations.
 
-My work focuses on:
-- Converting raw data into **clear insights**
-- Identifying **drop-offs, inefficiencies, and patterns**
-- Communicating findings for **business and product decisions**
+I’ve executed projects involving **multi-million-row relational datasets**, mirroring real production analytics workflows used in data-driven companies.
 
 ---
 
-## 🔍 Core Skills
+## 🧠 What I Do Best
 
-**Programming & Analysis**
+- Translate raw data into **business-relevant narratives**
+- Diagnose **conversion drop-offs and operational bottlenecks**
+- Design **clean, decision-ready dashboards**
+- Structure analysis that scales with **real-world data volume**
+
+---
+
+## 🛠 Tech Stack
+
+**Data & Analytics**
 - Python (Pandas, NumPy)
 - R (dplyr, ggplot2)
-- SQL (MySQL – Joins, CTEs, Aggregations)
+- SQL (MySQL — Joins, CTEs, Aggregations)
 
-**Data Visualization & Reporting**
-- Power BI (Dashboards, KPI Reporting)
-- Matplotlib, Seaborn, Plotly
+**Visualization & Reporting**
+- Power BI (Dashboards, KPI Tracking)
+- Matplotlib · Seaborn · Plotly
 - Excel (Pivot Tables, VLOOKUP)
 
-**Analytical Techniques**
+**Analytics Techniques**
 - Exploratory Data Analysis (EDA)
 - Funnel & Conversion Analysis
 - Cancellation & Root Cause Analysis
-- Behavioral Segmentation
+- Behavioral & Driver Segmentation
 
 ---
 
-## 📊 Featured Projects
+## 📌 Selected Work
 
-### 🚕 Ride Funnel & Cancellation Analysis (Industry-Scale Data)
-- Executed analysis on **6+ million records** across searches, quotes, bookings, and cancellations  
-- Built **conversion funnels** from Search → Quote → Booking → Completion  
-- Identified major drop-offs and operational drivers using pickup distance, trip attributes, and driver behavior  
-- Segmented drivers based on activity and reliability to support business decisions  
+### 🚕 Ride Funnel & Cancellation Analysis (Industry-Scale)
+- Analyzed **6+ million records** across searches, quotes, bookings, and cancellations  
+- Built an end-to-end **Search → Quote → Booking → Completion** funnel  
+- Identified primary drop-offs and operational friction points  
+- Segmented drivers by activity and reliability to support product and business decisions  
 
 ### 🏦 Banking Data Analytics
-- Analyzed **100K+ customer records** using Python, SQL, and Power BI  
-- Built dashboards to identify customer segments and financial trends  
+- Processed **100K+ financial records** using Python, SQL, and Power BI  
+- Delivered dashboards highlighting customer segments and revenue trends  
 
-### 🚖 Ola Ride Data Analysis
-- Assessed **50K+ ride records** to uncover demand patterns and cancellation trends  
-- Designed interactive Power BI dashboards for operational insights  
-
----
-
-## 🛠 Tools & Technologies
-Python • R • SQL • Power BI • Excel • Pandas • NumPy • dplyr • ggplot2 • Plotly • MySQL • GitHub
+### 🚖 Ride Demand & Cancellation Analysis
+- Analyzed **50K+ ride records** to uncover demand surges and cancellation patterns  
+- Designed interactive dashboards for operational insights  
 
 ---
 
-## 📫 Contact
-- **Email:** raihan964696@gmail.com  
+## 📂 What You’ll Find Here
+- Clean, reproducible analytics code  
+- Business-first problem framing  
+- Realistic datasets and scalable analysis logic  
+- Clear documentation and insight-driven storytelling  
+
+---
+
+## 📫 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/md-raihan-9809592aa/
+- **Email:** raihan964696@gmail.com
 
 ---
 
-⭐ *This GitHub showcases practical, execution-focused data analytics work aligned with real-world business problems.*
+⭐ *This GitHub reflects execution-focused analytics work aligned with real industry use cases.*
